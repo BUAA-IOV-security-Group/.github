@@ -1,12 +1,5 @@
 # 👋 Welcome to BIOS Lab (BUAA-IoV-Security Lab) 🛡️🚗🤖
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Focus-IoV%20Security-blueviolet?style=for-the-badge\&logo=generic-post](https://img.shields.io/badge/Focus-IoV%20Security-blueviolet?style=for-the-badge&logo=generic-post)" /\>
-\<img src="[https://img.shields.io/badge/Research-AI%20Adversarial-red?style=for-the-badge\&logo=openai](https://www.google.com/search?q=https://img.shields.io/badge/Research-AI%2520Adversarial-red%3Fstyle%3Dfor-the-badge%26logo%3Dopenai)" /\>
-\<img src="[https://img.shields.io/badge/Tech-LLM%20Jailbreaking-orange?style=for-the-badge\&logo=metamask](https://www.google.com/search?q=https://img.shields.io/badge/Tech-LLM%2520Jailbreaking-orange%3Fstyle%3Dfor-the-badge%26logo%3Dmetamask)" /\>
-\<img src="[https://img.shields.io/badge/School-Cyber%20Security%20@%20BUAA-blue?style=for-the-badge\&logo=beihang-university](https://img.shields.io/badge/School-Cyber%20Security%20@%20BUAA-blue?style=for-the-badge&logo=beihang-university)" /\>
-\</p\>
-
 -----
 
 ## 📖 关于我们 | About Us
@@ -56,10 +49,5 @@
   * 📍 **地址:** 北京航空航天大学学院路校区 网络空间安全学院
   * 🌟 **期待:** 如果你熟悉 **ROS**、**协议逆向**或 **LLM Fine-tuning**，欢迎直接联系加入我们的开源项目组。
 
------
 
-\<p align="center"\>
-\<img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png](https://www.google.com/search?q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)" width="100%"\>
-\</p\>
-\<p align="right"\>© 2026 BUAA BIOS Lab. Built with 🛡️ and 🧠\</p\>
 
