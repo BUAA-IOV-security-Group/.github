@@ -41,8 +41,8 @@
 
 ### 📊 团队统计 | Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ORG_NAME&show_icons=true&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ORG_NAME&layout=compact&theme=transparent" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BUAA-IOV-security-group&show_icons=true&theme=transparent" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUAA-IOV-security-group&layout=compact&theme=transparent" />
 </div>
 
 ---
